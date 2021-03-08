@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Natan Gabriel</title>
+		<link>http://example.org/post/</link>
+		<description>Recent content in Posts on example.org</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© Copyright | Natan Scalvence</copyright>
+		<lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Por que aprender C e C&#43;&#43; antes de qualquer linguagem?</title>
+			<link>http://example.org/post/c-and-cpp/</link>
+			<pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+			
+			<guid>http://example.org/post/c-and-cpp/</guid>
+			<description>
+			
+				Este tópico explica o porque talvez você deveria escolher C como primeira linguagem.
+			
+			</description>
+		</item>
+		
+	</channel>
+</rss>
