@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://goofy-swirles-cc4bde.netlify.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 author = "Natan Gabriel"
@@ -82,10 +82,6 @@ enabled = false
 #host = "" # Paste the domain of you commento.io system
 
 # Navigation
-[[menu.main]]
-name = "Home"
-url = "/home"
-weight = 1
 
 [[menu.main]]
 name = "Postagens"
@@ -99,7 +95,7 @@ weight = 3
 
 [[menu.main]]
 name = "Git"
-url = "/tags"
+url = "/git"
 weight = 4
 
 [[menu.main]]
