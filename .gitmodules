@@ -1,3 +1,7 @@
 [submodule "themes/github"]
 	path = themes/github
 	url = https://github.com/MeiK2333/github-style
+
+[submodule "themes/hugo-notepadium"]
+	path = themes/hugo-notepadium
+	url = https://github.com/cntrump/hugo-notepadium
